@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working in Sweden with the University of Gävle <br />
 ⚡ I'm looking for a 6 months internship for winter 2023 <br />
-🌱 I’m currently learning Python, Three.js <br />
+🌱 I’m currently learning Python, machine learning, SQL <br />
 📫 How to reach me: tviot@enseirb-matmeca.fr <br />
 
 <!--
