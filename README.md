@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working in Bordeaux <br />
-⚡ I'm looking for a 6 months internship for winter 2023<br />
+⚡ I'm looking for a 6-month internship for winter 2023<br />
 📫 How to reach me: tviot@enseirb-matmeca.fr <br />
 
 <!--
