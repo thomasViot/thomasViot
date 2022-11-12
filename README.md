@@ -1,8 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working in Bordeaux <br />
-⚡ I'm looking for a 6-month internship for winter 2023<br />
+⚡ I'm looking for a 6-month internship for winter 2023 in frontend programming<br />
 📫 How to reach me: tviot@enseirb-matmeca.fr <br />
-⚡ My portfolio : https://thomasviot.github.io/react-github-portfolio
+⚡ Take a look to my portfolio : https://thomasviot.github.io/react-github-portfolio
 
 <!--
 **thomasViot/thomasViot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
