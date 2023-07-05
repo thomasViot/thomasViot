@@ -1,6 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working in Bordeaux <br />
-⚡ I'm looking for a 6-month internship for winter 2023 in frontend programming<br />
+🔭 I’m currently working in MadeByMe startup <br />
 📫 How to reach me: tviot@enseirb-matmeca.fr <br />
 ⚡ Take a look to my portfolio : https://thomasviot.github.io/react-github-portfolio
 
