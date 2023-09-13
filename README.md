@@ -2,6 +2,8 @@
 🔭 I’m currently searching for a job as a front-end engineer <br />
 📫 How to reach me: tviot@enseirb-matmeca.fr <br />
 ⚡ Take a look at my portfolio : https://thomasviot.github.io/react-github-portfolio
+🌱 My LinkedIn profile: https://www.linkedin.com/in/thomas-viot-67b56a197/
+
 
 <!--
 **thomasViot/thomasViot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
