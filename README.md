@@ -1,7 +1,6 @@
 ### Hi there 👋
 🔭 Freelance Software Developer <br />
 📫 How to reach me: thomas.viot@serviprog.fr <br />
-⚡ Take a look at my portfolio : https://thomasviot.github.io/react-github-portfolio <br />
 🌱 My LinkedIn profile: https://www.linkedin.com/in/thomas-viot-67b56a197/
 
 
